@@ -1,0 +1,258 @@
+Command:  C:\Users\passp\AppData\Local\Temp\bgc6617.cmd
+         Started at Sat 10/29/2016 11:59:06.54
+         Current directory is C:\Users\passp\OneDrive\bin
+
+log2@11:59:07.22>> REM Generated file: C:\Users\passp\AppData\Local\Temp\bgc6617.cmd  
+
+log2@11:59:07.22>> type C:\Users\passp\AppData\Local\Temp\bgc6617.cmd  
+REM Generated file: C:\Users\passp\AppData\Local\Temp\bgc6617.cmd 
+type C:\Users\passp\AppData\Local\Temp\bgc6617.cmd 
+dir 
+REM Ignore "batch file cannot be found" message (Dos problem?) 
+del C:\Users\passp\AppData\Local\Temp\bgc6617.cmd 
+
+log2@11:59:07.22>> dir  
+ Volume in drive C is Local Disk
+ Volume Serial Number is 3037-024D
+
+ Directory of C:\Users\passp\OneDrive\bin
+
+10/29/2016  11:59 AM    <DIR>          .
+10/29/2016  11:59 AM    <DIR>          ..
+10/23/2016  02:04 PM             2,377 2vim.cmd
+10/29/2016  11:53 AM               139 a.tmp
+07/18/2001  02:51 PM            65,536 addcr.exe
+04/25/2011  09:22 PM             3,470 archive.cmd
+04/21/2011  09:50 PM             1,171 argloop.cmd
+10/28/2016  10:10 PM               494 ask.cmd
+04/21/2011  09:50 PM             1,639 attr2.cmd
+03/03/2005  05:29 PM            32,768 awk2c.exe
+10/28/2016  09:38 PM    <DIR>          bar
+09/18/2008  11:39 AM           225,280 baretail.exe
+10/29/2016  11:45 AM             1,377 bashx.cmd
+10/29/2016  11:15 AM             3,832 bg.cmd
+04/21/2011  09:50 PM             2,629 bgc.cmd
+10/29/2016  11:59 AM               164 bgc6617.log
+04/21/2011  09:50 PM             1,935 bgl.cmd
+11/15/2007  11:41 PM           255,488 BinCalc.exe
+08/15/2008  06:49 PM               252 BinCalc.ini
+06/02/2014  01:41 PM           127,045 bj.exe
+07/15/1999  05:11 PM            32,768 bkspc.exe
+04/11/2011  11:29 PM            25,838 boxc.exe
+04/13/2007  09:30 PM            16,384 byc.exe
+11/20/2007  11:02 PM            16,384 cascan.exe
+01/28/2012  08:34 PM               785 cdapp.cmd
+10/12/2016  09:05 PM               820 cdbin.cmd
+10/12/2016  09:05 PM               815 cddropbox.cmd
+01/28/2012  08:34 PM               797 cdhome.cmd
+01/28/2012  08:34 PM               809 cdprog.cmd
+01/28/2012  08:34 PM               803 cdwin.cmd
+04/21/2011  09:24 PM             1,223 chpr.cmd
+10/29/2016  11:16 AM             2,005 ci0.cmd
+04/27/2011  06:55 PM             1,369 cktask.cmd
+04/21/2011  09:52 PM             1,839 cktree.cmd
+12/29/2006  11:00 PM             1,034 ckurl.cmd
+04/21/2011  09:52 PM             2,160 cl1.cmd
+04/21/2011  09:52 PM             2,318 cmd2exe.cmd
+04/21/2011  09:52 PM             1,433 copyp.cmd
+04/13/2007  09:30 PM            16,384 csdiff.exe
+04/13/2007  09:30 PM            16,384 csrcs.exe
+04/21/2011  09:52 PM             2,858 csrcsdiff.cmd
+11/09/2007  12:59 PM            16,384 csrcsstatus.exe
+02/23/2007  02:17 PM            57,344 ctab.exe
+01/27/2006  03:06 PM            61,440 ctoe.exe
+10/12/2016  09:48 PM    <DIR>          CVStmp
+04/28/2011  01:30 AM             6,523 d.cmd
+04/21/2011  09:52 PM             1,943 desklink.cmd
+06/29/2007  07:50 PM            16,384 diffx.exe
+04/21/2011  09:52 PM             3,981 dircomp.cmd
+12/29/2006  11:00 PM               976 dirs.cmd
+03/30/2007  07:03 PM               577 dirtail.cmd
+12/29/2006  11:00 PM               346 dllck.cmd
+04/13/2007  09:30 PM            16,384 docmgr.exe
+04/21/2011  09:52 PM             1,134 dumpb.cmd
+04/21/2011  09:52 PM             2,577 eg.cmd
+06/29/2007  04:50 PM            16,384 egrep.exe
+05/13/2009  07:47 AM            15,867 empty.ico
+04/13/2011  12:35 AM            40,960 emptyBin.exe
+01/27/2006  03:07 PM            45,056 etoc.exe
+04/11/2011  03:56 PM            16,384 excel.exe
+05/13/2004  01:26 PM            84,784 fciv.exe
+06/29/2007  04:50 PM            16,384 fgrep.exe
+10/16/2016  09:21 PM    <DIR>          files_in_html
+11/13/2007  03:50 PM            16,384 findx.exe
+04/21/2011  09:52 PM             1,054 fixdisk.cmd
+04/27/2011  07:48 PM             6,243 fixvimhtml.cmd
+02/14/2014  01:54 PM               806 fixweb.cmd
+02/14/2014  06:13 PM             1,881 fixwebdoc.cmd
+02/17/2014  03:28 AM             1,435 fixwebmain.cmd
+10/25/2016  08:57 PM               144 foo.cmd
+03/13/2011  04:36 PM             5,722 foobar.c
+02/28/2005  11:48 PM            14,532 funzip.exe
+10/24/2016  07:22 PM               137 fxx.cmd
+02/05/2012  10:29 AM             1,142 gcc1.cmd
+03/08/2006  11:24 PM            40,960 gcd.exe
+04/20/2012  11:05 AM             2,510 genlinks.cmd
+05/19/2003  03:57 PM            49,152 getcomment.exe
+02/11/2007  05:17 PM             3,461 getmusic.cmd
+09/02/1998  04:05 AM            34,304 graburl.exe
+04/13/2007  09:30 PM            16,384 grepbelow.exe
+04/13/2007  09:30 PM            16,384 grepc.exe
+01/28/2012  08:18 PM             5,631 gvim.c
+01/25/2012  10:52 PM             5,869 gvimx.c
+07/01/2010  02:57 PM            16,384 gvimx.exe
+02/04/2007  02:17 PM            57,344 hd.exe
+03/29/2011  08:08 PM               149 hello.c
+03/29/2011  08:08 PM            16,280 hello.exe
+07/19/2007  07:04 PM            16,384 history.exe
+11/15/2000  10:21 AM           178,688 hjsplit.exe
+09/30/2016  05:39 PM    <DIR>          htmldoc
+07/18/2001  02:55 PM            57,344 ifcoment.exe
+06/29/2007  04:50 PM            16,384 igrep.exe
+12/25/2003  05:05 PM           112,640 imagemgr.exe
+11/07/2008  05:16 PM            36,864 isascii.exe
+03/08/2005  09:59 PM            40,960 justify.exe
+04/21/2011  09:52 PM             1,691 jx.cmd
+03/29/2011  08:24 PM             1,009 keeptitle.cmd
+04/21/2011  09:52 PM             1,520 killx.cmd
+10/15/2016  07:15 PM    <SYMLINK>      lbash.exe [C:\Windows\WinSxS\amd64_microsoft-windows-lxss-bash_31bf3856ad364e35_10.0.14393.0_none_6d0fca0ad344bc62\bash.exe]
+12/11/2003  03:26 AM            53,248 LCISOCreator.exe
+04/21/2011  09:52 PM             1,637 listx.cmd
+04/21/2011  09:52 PM             4,867 log2.cmd
+04/21/2011  09:52 PM             2,263 lowername.cmd
+03/17/1997  04:10 PM           395,264 makedocw.exe
+05/31/2012  01:43 PM             2,865 makelinks.cmd
+05/31/2012  01:39 PM             2,861 makelinks.cmd~
+04/21/2011  09:52 PM             1,349 maketags.cmd
+04/21/2011  09:52 PM             1,872 makeworkcmd.cmd
+03/06/2003  02:10 AM            45,056 MessageBox.exe
+04/13/2007  09:26 PM            24,576 mkalias.exe
+07/30/2007  05:58 PM            65,536 mkhtml.exe
+10/28/2016  10:29 PM               521 mklinkd.cmd
+04/21/2011  09:52 PM             2,177 mkrcsdir.cmd
+03/29/2011  02:45 PM                85 mkreformat.cmd
+06/10/2008  12:52 PM            57,344 mktree.exe
+02/05/2012  10:36 AM             3,561 mkvimalias.cmd
+10/01/2007  09:38 PM            57,344 mll.exe
+04/13/2007  09:30 PM            16,384 msdn.exe
+04/13/2007  09:31 PM            16,384 msvc.exe
+04/11/2011  03:56 PM            16,384 msword.exe
+02/04/2005  11:48 PM               250 netstart.bat
+10/05/2007  12:14 PM            49,152 nocr.exe
+09/30/2016  05:39 PM    <DIR>          notes
+10/23/2016  01:21 PM    <DIR>          Obsolete
+03/13/2005  12:06 AM            45,056 outline.exe
+10/29/2016  11:27 AM             6,804 pd.cmd
+01/28/2012  08:34 PM             1,806 pd2cd.cmd
+03/31/2011  09:52 PM               784 pdapp.cmd
+12/07/2014  02:37 PM               803 pdbin.cmd
+10/12/2016  09:28 PM               836 pddropbox.cmd
+03/31/2011  09:58 PM               796 pdhome.cmd
+10/12/2016  09:30 PM               837 pdonedrive.cmd
+10/12/2016  09:30 PM               825 pdprog.cmd
+10/12/2016  09:30 PM               831 pdprog86.cmd
+03/31/2011  10:07 PM               842 pdswap.cmd
+10/12/2016  09:30 PM               819 pdwin.cmd
+04/28/2011  06:54 PM             3,260 pop.cmd
+10/29/2016  11:48 AM    <DIR>          RCS
+10/28/2016  10:48 PM             1,700 rcsdiffall.cmd
+05/09/2007  11:56 PM            16,384 rcsdiffx.exe
+07/17/2007  01:48 PM            15,298 rcsfront.cmd
+07/17/2007  01:45 PM               532 rcsx.cmd
+09/22/2000  08:59 PM             2,508 readme
+05/13/2004  01:26 PM             3,627 ReadMe.txt
+04/13/2011  12:35 AM            32,768 Recycle.exe
+03/29/2011  08:02 PM            11,205 refm2.c
+04/13/2007  09:30 PM            16,384 refm2.exe
+03/17/2007  08:05 PM            11,205 refm3.c
+04/13/2007  09:30 PM            16,384 refm3.exe
+03/17/2007  08:05 PM            11,205 refm4.c
+04/13/2007  09:30 PM            16,384 refm4.exe
+06/20/2008  11:30 AM            11,205 refm8.c
+06/20/2008  11:33 AM            16,384 refm8.exe
+03/17/2007  08:05 PM            11,150 refmdme.c
+04/13/2007  09:30 PM            16,384 refmdme.exe
+03/17/2007  08:08 PM            11,353 refmihs.c
+04/13/2007  09:30 PM            16,384 refmihs.exe
+06/07/2007  08:20 PM            11,151 reformat.c
+08/30/2005  09:01 AM           415,248 Regmon.exe
+01/21/2006  10:02 PM             8,628 regmon.GID
+10/22/2002  10:48 AM            15,031 REGMON.HLP
+04/21/2011  09:53 PM             1,758 relabel.cmd
+04/13/2007  09:31 PM            16,384 replicate.exe
+04/21/2011  09:53 PM             2,314 retroci.cmd
+04/13/2007  01:42 PM            20,480 revlines.exe
+06/29/2007  04:50 PM            16,384 rgrep.exe
+04/21/2011  09:53 PM             1,304 rmi.cmd
+02/05/2007  10:11 AM            40,960 ruler.exe
+12/03/2007  08:38 PM            16,384 saferem.exe
+11/30/2001  08:32 AM             4,131 sample.wgetrc
+09/30/2016  05:40 PM    <DIR>          savevim
+04/21/2011  09:53 PM             1,234 sckp.cmd
+04/13/2007  09:31 PM            16,384 sdkdoc.exe
+09/26/2007  09:33 PM            12,062 sfer
+02/03/2007  06:36 PM            49,152 showstat.exe
+04/28/2011  07:11 PM             2,103 shpr.cmd
+02/05/2005  10:56 AM            36,864 sidebyside.exe
+02/28/2005  02:34 PM         1,243,648 siw.exe
+04/21/2011  09:53 PM             2,076 sname.cmd
+04/13/2007  09:31 PM            16,384 spck.exe
+04/21/2011  09:53 PM             1,245 stackempty.cmd
+03/03/2005  05:30 PM            13,341 stripdup.exe
+04/29/2011  12:16 PM             3,112 sub.cmd
+04/21/2011  09:53 PM             1,351 swr.cmd
+06/29/2007  08:15 PM            16,384 swremove.exe
+06/04/2004  02:39 PM           101,888 tdocmake.exe
+10/18/2016  08:45 PM               273 te.cmd
+04/21/2011  09:53 PM             1,845 toprn.cmd
+12/19/2002  01:30 AM           708,090 treesize.exe
+05/02/1998  03:50 AM            88,576 txtprint.exe
+01/27/2011  06:08 PM           376,832 Ultimate Windows Tweaker.exe
+04/21/2011  09:53 PM             1,613 unprotect.cmd
+02/28/2005  11:49 PM            27,206 unzipsfx.exe
+04/21/2011  09:53 PM             2,261 uppername.cmd
+12/08/1998  10:55 PM           466,944 url2file.exe
+01/28/2012  08:19 PM             5,628 vim.c
+04/21/2011  09:53 PM             1,133 vstudio.cmd
+04/21/2011  09:53 PM             1,191 when.cmd
+10/22/1997  01:51 PM            35,840 whence.exe
+10/16/2016  09:14 PM               313 WinMerge.cmd
+09/25/2000  06:59 PM           368,640 wiz.exe
+06/06/2000  07:04 PM            27,863 wiz.hlp
+09/22/2000  08:29 PM            73,728 wizdiff.exe
+09/22/2000  08:31 PM            90,112 wizedit.dll
+09/22/2000  08:31 PM            36,864 wizeditor.exe
+05/28/2008  12:47 PM            40,960 wizmo.exe
+09/22/2000  08:29 PM            77,824 wizutils.dll
+10/16/2016  09:16 PM    <SYMLINK>      wm.cmd [WinMerge.cmd]
+04/21/2011  09:53 PM             1,598 wmrcsdiff.cmd
+06/05/2008  02:07 PM            16,384 wmx.exe
+04/13/2007  09:31 PM            16,384 wuptime.exe
+04/13/2007  09:31 PM            16,384 wzunzip.exe
+04/13/2007  09:31 PM            16,384 wzzip.exe
+10/29/2016  11:42 AM             2,388 x.cmd
+04/21/2011  09:53 PM             1,727 xargloop.cmd
+04/21/2011  09:55 PM             6,037 xdel.cmd
+04/03/2011  03:06 PM             4,906 xdelnext.cmd
+10/25/2016  09:43 PM    <SYMLINK>      xfind.exe [\Users\passp\OneDrive\GnuWin32\bin\find.exe]
+01/26/2012  02:25 PM            15,633 xgvin.exe
+02/05/2012  10:36 AM             7,217 xmkalias (Vbox-Win7-64).cmd
+02/06/2012  10:03 AM             7,238 xmkalias.cmd
+06/30/2010  10:17 PM             1,769 xpenv.txt
+06/29/2007  08:15 PM            16,384 xrmi.exe
+04/13/2007  09:31 PM            16,384 xsync.exe
+05/27/2004  11:25 PM             2,428 ydebug0.h
+03/11/2005  04:30 AM            49,840 zipcloak.exe
+03/11/2005  04:29 AM            47,856 zipnote.exe
+03/11/2005  04:29 AM            49,192 zipsplit.exe
+             218 File(s)      8,011,371 bytes
+              10 Dir(s)  67,828,813,824 bytes free
+
+log2@11:59:07.22>> REM Ignore "batch file cannot be found" message (Dos problem?)  
+
+log2@11:59:07.22>> del C:\Users\passp\AppData\Local\Temp\bgc6617.cmd  
+The batch file cannot be found.
+Command:  C:\Users\passp\AppData\Local\Temp\bgc6617.cmd
+         Finished at Sat 10/29/2016 11:59:07.24
+         Started  at Sat 10/29/2016 11:59:06.54
+         Current directory is C:\Users\passp\OneDrive\bin
